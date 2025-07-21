@@ -122,6 +122,11 @@ ResNet-18 모델의 마지막 레이어는 완전히 연결된 (fully connected,
 네트워크는 이미 대부분의 개체에 공통적인 기능을 인식하도록 학습되어 있기 때문에 훈련 과정은 이미 부분적으로는 수행된 것이라고 할 수 있습니다.<br> 
 이전 훈련은 재사용 가능하며 새로운 프로젝트로 "transferred(이전)"할 수 있습니다.<br>
 
+### Thumbs Project
+[한국어 버전 링크](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-RX-02+V2-KR&unit=block-v1:DLI+S-RX-02+V2-KR+type@vertical+block@fe5761e3ad8846e39604a2b32332c1b6)
+### Emotions Project
+[한국어 버전 링크](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-RX-02+V2-KR&unit=block-v1:DLI+S-RX-02+V2-KR+type@vertical+block@ddb1ddbfd84d49f7b45c38c5f01b1090)
+
 ### 퀴즈 10문항
 1. 머신 러닝에서 "분류(Classification)" 란 무엇입니까?<br>
 -> 몇 개의 입력을 이산 출력 값에 매핑하고, 주어진 분류 집합에 대해 입력을 분류하고, 입력 영상의 레이블을 예측하는 모든 과정
@@ -164,6 +169,9 @@ ResNet-18 모델의 마지막 레이어는 완전히 연결된 (fully connected,
 ### 평가하기
 분류와 회귀는 평가 방식에서도 다릅니다. 분류의 이산적인 값은 정확도, 즉 "올바른" 답변의 확률을 계산하여 정확도를 기반하여 평가할 수 있습니다.<br>
 회귀 분석의 경우, 정답에 가능한 가깝게 근접하는 데 관심이 있습니다. 따라서 평균 제곱근 오차 (Root Mean Square Error, RMSE)를 활용할 수 있습니다.
+
+### Face XY Project
+[한국어 버전 링크](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-RX-02+V2-KR&unit=block-v1:DLI+S-RX-02+V2-KR+type@vertical+block@77afe36f5e884ee69f484fb49ee39054)
 
 ### 퀴즈 10문항
 1. 분류(Classification)와 회귀(Regression)의 차이점은 무엇입니까?<br>
